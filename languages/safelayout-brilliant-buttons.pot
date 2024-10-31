@@ -1,0 +1,390 @@
+# Copyright (C) 2023-2024 Safelayout
+# This file is distributed under the same license as the Safelayout Brilliant Buttons plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Safelayout Brilliant Buttons 1.0.2\n"
+"POT-Creation-Date: 2024-10-04 18:19+0330\n"
+"PO-Revision-Date: 2024-10-04 18:20+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: safelayout-brilliant-buttons.php:65
+msgid "Settings"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:131
+#, php-format
+msgid ""
+"Howdy, %1$s! Thank you for using %2$s! Could you please do us a BIG favor "
+"and %3$s? Just to help us spread the word and boost our motivation.%4$s"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:135
+msgid "Safelayout Brilliant Buttons"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:136
+msgid "give it a 5-star rating on WordPress.org"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:137
+msgid "We really appreciate your support!"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:143
+msgid "Yes, I will help ★★★★★"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:145
+msgid "Remind me later"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:146
+msgid "I already did"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:232
+msgid "Quick Feedback"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:235
+msgid "If you have a moment, please share why you are deactivating"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:240
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:244
+msgid "The plugin broke my site"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:245
+msgid "Please explain the problem."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:249
+msgid "I found a better plugin"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:250
+msgid "What's the plugin name?"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:254
+msgid "Other"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:255
+msgid "Please share the reason."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:258
+msgid ""
+"No email address, domain name or IP addresses are transmitted after you "
+"submit the survey."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:259
+msgid "You can see the source code here: "
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:263
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:264
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:267
+msgid "Wait ..."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:268
+msgid "Redirecting ..."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:325
+msgid "Blocks By Safelayout"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:336 safelayout-brilliant-buttons.php:350
+msgid "Safelayout Brilliant Buttons Options"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:337
+msgid "Safelayout Buttons"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:358
+msgid "Safelayout Brilliant Buttons Installed Icon Packs"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:361
+msgid "No."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:362
+msgid "Pack Name"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:363
+msgid "Pack Status"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:374
+msgid "Active"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:381
+msgid "Save Changes"
+msgstr ""
+
+#: src/button/color-picker.js:84
+msgid "Solid"
+msgstr ""
+
+#: src/button/color-picker.js:89
+msgid "Gradient"
+msgstr ""
+
+#: src/button/controls.js:180
+msgid "Uppercase"
+msgstr ""
+
+#: src/button/controls.js:186
+msgid "Rotate"
+msgstr ""
+
+#: src/button/controls.js:195
+msgid "Button effect"
+msgstr ""
+
+#: src/button/controls.js:216
+msgid "Link and Title"
+msgstr ""
+
+#: src/button/controls.js:222
+msgid "Tooltip"
+msgstr ""
+
+#: src/button/controls.js:227
+msgid "Label"
+msgstr ""
+
+#: src/button/controls.js:230
+msgid "It is for screen readers."
+msgstr ""
+
+#: src/button/controls.js:235
+msgid "Link url"
+msgstr ""
+
+#: src/button/controls.js:254
+msgid "Link rel"
+msgstr ""
+
+#: src/button/controls.js:262
+msgid "Size"
+msgstr ""
+
+#: src/button/controls.js:290
+msgid "Width"
+msgstr ""
+
+#: src/button/controls.js:292
+msgid "Button width"
+msgstr ""
+
+#: src/button/controls.js:315 src/button/controls.js:557
+msgid "Reset"
+msgstr ""
+
+#: src/button/controls.js:321
+msgid "Color"
+msgstr ""
+
+#: src/button/controls.js:328
+msgid "Add a background color to the button."
+msgstr ""
+
+#: src/button/controls.js:329 src/button/controls.js:335
+msgid "Background color"
+msgstr ""
+
+#: src/button/controls.js:342
+msgid "Text color"
+msgstr ""
+
+#: src/button/controls.js:351 src/button/controls.js:366
+msgid "Icon"
+msgstr ""
+
+#: src/button/controls.js:357
+msgid "Add an icon to the button."
+msgstr ""
+
+#: src/button/controls.js:358
+msgid "Add icon"
+msgstr ""
+
+#: src/button/controls.js:395
+msgid "Icon position"
+msgstr ""
+
+#: src/button/controls.js:405
+msgid "Left"
+msgstr ""
+
+#: src/button/controls.js:410
+msgid "Right"
+msgstr ""
+
+#: src/button/controls.js:416
+msgid "Icon Fill Color"
+msgstr ""
+
+#: src/button/controls.js:435
+msgid "Icon Stroke Color"
+msgstr ""
+
+#: src/button/controls.js:453
+msgid "Icon Stroke Width"
+msgstr ""
+
+#: src/button/controls.js:471
+msgid "Icon gap"
+msgstr ""
+
+#: src/button/controls.js:485
+msgid "Icon background shape"
+msgstr ""
+
+#: src/button/controls.js:503
+msgid "Background shape color"
+msgstr ""
+
+#: src/button/controls.js:513
+msgid "Icon Animation"
+msgstr ""
+
+#: src/button/controls.js:542
+msgid "Border"
+msgstr ""
+
+#: src/button/controls.js:560
+msgid "Border radius"
+msgstr ""
+
+#: src/button/controls.js:568
+msgid "Background pattern"
+msgstr ""
+
+#: src/button/controls.js:573
+msgid "Pattern opacity"
+msgstr ""
+
+#: src/button/controls.js:601 src/button/controls.js:607
+msgid "Box shadow"
+msgstr ""
+
+#: src/button/controls.js:613 src/button/controls.js:663
+msgid "color"
+msgstr ""
+
+#: src/button/controls.js:620 src/button/controls.js:670
+msgid "blur"
+msgstr ""
+
+#: src/button/controls.js:630 src/button/controls.js:679
+msgid "X offset"
+msgstr ""
+
+#: src/button/controls.js:639 src/button/controls.js:688
+msgid "Y offset"
+msgstr ""
+
+#: src/button/controls.js:651 src/button/controls.js:657
+msgid "Text shadow"
+msgstr ""
+
+#: src/button/controls.js:700
+msgid "Hover animation"
+msgstr ""
+
+#: src/button/controls.js:736
+msgid "Click effect"
+msgstr ""
+
+#: src/button/controls.js:743
+msgid "Click effect color"
+msgstr ""
+
+#: src/button/controls.js:765
+msgid "Block spacing"
+msgstr ""
+
+#: src/button/controls.js:770
+msgid "Margin"
+msgstr ""
+
+#: src/button/controls.js:775
+msgid "Padding"
+msgstr ""
+
+#: src/button/controls.js:783
+msgid "https://safelayout.com"
+msgstr ""
+
+#: src/button/controls.js:786
+msgid "Upgrade to pro version and get full features."
+msgstr ""
+
+#: src/button/controls.js:788
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: src/button/edit.js:133
+msgid "My Button"
+msgstr ""
+
+#: src/button/icon-picker.js:58
+msgid "one"
+msgstr ""
+
+#: src/button/icon-picker.js:59
+msgid "two"
+msgstr ""
+
+#: src/button/icon-picker.js:60
+msgid "three"
+msgstr ""
+
+#: src/button/icon-picker.js:61
+msgid "four"
+msgstr ""
+
+#: src/button/icon-picker.js:62
+msgid "five"
+msgstr ""
+
+#: src/button/icon-picker.js:211
+msgid "Search icon"
+msgstr ""
+
+#: src/button/index.js:14
+msgid "Button (Safelayout)"
+msgstr ""
+
+#: src/button/index.js:15
+msgid "Beautiful buttons."
+msgstr ""

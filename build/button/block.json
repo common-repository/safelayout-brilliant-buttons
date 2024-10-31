@@ -1,0 +1,219 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "safelayout/safelayout-button",
+  "version": "1.0.0",
+  "title": "Button (Safelayout)",
+  "category": "blocks-safelayout-category",
+  "description": "Beautiful and high quality buttons.",
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "blockId": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string",
+      "default": "My Button"
+    },
+    "align": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string",
+      "default": "#00f"
+    },
+    "hasBg": {
+      "type": "boolean",
+      "default": true
+    },
+    "bgColor": {
+      "type": "string",
+      "default": "#3f3"
+    },
+    "textAlign": {
+      "type": "string",
+      "default": "center"
+    },
+    "uppercase": {
+      "type": "boolean",
+      "default": false
+    },
+    "fontSize": {
+      "type": "string",
+      "default": "16px"
+    },
+    "lineHeight": {
+      "type": "string",
+      "default": "1.5"
+    },
+    "letterSpacing": {
+      "type": "string",
+      "default": "0px"
+    },
+    "width": {
+      "type": "number",
+      "default": 0
+    },
+    "hasBgShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "bgShadow": {
+      "type": "string",
+      "default": "1px 1px 2px #000"
+    },
+    "hasTextShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "textShadow": {
+      "type": "string",
+      "default": "1px 1px 2px #fff"
+    },
+    "blockMargin": {
+      "type": "object",
+      "default": {
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": ""
+      }
+    },
+    "blockPadding": {
+      "type": "object",
+      "default": {
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": ""
+      }
+    },
+    "border": {
+      "type": "object"
+    },
+    "borderRadius": {
+      "type": "object"
+    },
+    "hasIcon": {
+      "type": "boolean",
+      "default": false
+    },
+    "iconShape": {
+      "type": "string",
+      "default": "No Shape"
+    },
+    "iconShapeColor": {
+      "type": "string",
+      "default": "#3131ff"
+    },
+    "iconAnimation": {
+      "type": "string",
+      "default": "No Animation"
+    },
+    "iconAnimColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+    "iconPos": {
+      "type": "string",
+      "default": "left"
+    },
+    "iconGap": {
+      "type": "number",
+      "default": 6
+    },
+    "iconName": {
+      "type": "string",
+      "default": "000_next"
+    },
+    "iconPaths": {
+      "type": "array",
+      "default": [
+        {
+          "d": "M6.6 6L5.4 7l4.5 5-4.5 5 1.1 1 5.5-6-5.4-6zm6 0l-1.1 1 4.5 5-4.5 5 1.1 1 5.5-6-5.5-6z"
+        }
+      ]
+    },
+    "iconColor": {
+      "type": "array",
+      "default": [
+        "#00f"
+      ]
+    },
+    "iconStrokeColor": {
+      "type": "array",
+      "default": [
+        "#000"
+      ]
+    },
+    "iconStrokeWidth": {
+      "type": "array",
+      "default": [
+        0
+      ]
+    },
+    "label": {
+      "type": "string",
+      "default": ""
+    },
+    "title": {
+      "type": "string",
+      "default": ""
+    },
+    "linkUrl": {
+      "type": "string",
+      "default": ""
+    },
+    "linkRel": {
+      "type": "string",
+      "default": ""
+    },
+    "linkTarget": {
+      "type": "string",
+      "default": ""
+    },
+    "bgPattern": {
+      "type": "string",
+      "default": "No Pattern"
+    },
+    "patternOpacity": {
+      "type": "number",
+      "default": 0.2
+    },
+    "effect": {
+      "type": "string",
+      "default": "No Effect"
+    },
+    "svgEffect": {
+      "type": "string",
+      "default": ""
+    },
+    "rotate": {
+      "type": "number",
+      "default": 0
+    },
+    "animation": {
+      "type": "string",
+      "default": "No Animation"
+    },
+    "animColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+    "clickEffect": {
+      "type": "string",
+      "default": "effect001"
+    },
+    "clickEffectColor": {
+      "type": "string",
+      "default": "#1da1f2"
+    }
+  },
+  "textdomain": "safelayout-brilliant-buttons",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "viewScript": "file:./script.js",
+  "style": "file:./style-index.css"
+}
